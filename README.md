@@ -1,95 +1,78 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey there 👋 Welcome to my corner of the internet</h1>
 
-<p align="left">I'm Mohamed — a passionate Flutter Developer from Egypt 🇪🇬</p>
+<p align="left">
+I'm <strong>Mohamed Hassan</strong> — a Flutter Developer from Egypt 🇪🇬  
+I turn coffee ☕ into smooth, scalable mobile apps.
+</p>
 
 ---
 
 <h2 align="left">👨‍💻 About Me</h2>
 
-- ✨ Creating bugs since **2020**  
-- 📱 I build **high-performance cross-platform apps** with Flutter  
-- 📚 Currently learning: **Flutter animations**, **performance profiling**, and **CI/CD pipelines**  
-- 🧠 Always exploring new technologies and best practices in mobile development  
-- 🎯 Goals:  
-  - Contribute to open-source Flutter projects  
-  - Build scalable mobile apps with clean architecture  
-  - Become a **Google Developer Expert (GDE)**  
-- 🎲 Fun fact: *I sometimes spend more time choosing the perfect icon than coding the actual feature 😄*
+- 🐞 Writing bugs professionally since <strong>2020</strong> (and fixing most of them)  
+- 📱 Flutter Developer focused on <strong>high-performance cross-platform apps</strong>  
+- 🧠 Big fan of clean code, clean architecture, and clean commit history  
+- 📚 Currently leveling up in:
+  - Flutter animations & micro-interactions  
+  - Performance profiling & optimization  
+  - CI/CD pipelines that actually work on the first try (sometimes 😄)
+- 🎯 My goals:
+  - Contribute to impactful open-source Flutter projects  
+  - Build scalable apps that don’t cry in production  
+  - Become a <strong>Google Developer Expert (GDE)</strong>
+
 
 ---
 
 <h2 align="left">🚀 Skills & Technologies</h2>
 
-🧩 **Frameworks & Languages**  
+🧩 <strong>Frameworks & Languages</strong>  
 - Flutter & Dart  
-- Native Android (Kotlin/Java) + iOS (Swift)  
+- Native Android (Kotlin / Java)  
+- iOS (Swift)  
 - FastAPI & RESTful APIs  
 - GraphQL  
 
-🧠 **State Management**  
+🧠 <strong>State Management</strong>  
 - Provider, Riverpod, BLoC, GetX  
 
-📡 **Backend & Cloud**  
+📡 <strong>Backend & Cloud</strong>  
 - Firebase (Auth, Firestore, Messaging, Crashlytics)  
 - Google Cloud  
-- Supabase (Basic)  
+- Supabase (Basic experience)  
 
-📦 **Storage**  
+📦 <strong>Local Storage</strong>  
 - Hive, SharedPreferences, SQLite  
 
-🎨 **UI/UX & Tools**  
+🎨 <strong>UI/UX & Motion</strong>  
 - Figma, Adobe XD  
-- Responsive UI & RTL (Arabic, English, Turkish)  
-- Custom animations: Rive, Lottie  
+- Responsive UI & full RTL support (Arabic, English, Turkish)  
+- Custom animations using Rive & Lottie  
 
-🔧 **Architecture & Workflow**  
-- Clean Architecture (Domain/Data/Presentation layers)  
+🔧 <strong>Architecture & Workflow</strong>  
+- Clean Architecture (Domain / Data / Presentation)  
 - Git, GitHub, GitLab  
-- CI/CD: GitHub Actions, Codemagic  
-- Deep Linking, Dynamic Links, Push Notifications  
+- CI/CD with GitHub Actions & Codemagic  
+- Deep Linking, Dynamic Links & Push Notifications  
 
 ---
 
 <h2 align="left">💻 I Code With</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack" />
-</div>
+<p align="left">
+Flutter • Dart • Firebase • Android Studio • Android • iOS • Figma • GitHub • Git • Google Cloud • IntelliJ • Slack
+</p>
 
 ---
 
-<h2 align="left">📫 Let's Connect!</h2>
+<h2 align="left">📫 Let’s Connect</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-hassan-582286251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href=" mhmd.hasn2411@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-  <a href="https://github.com/mhmedhasn"_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
+If you want to talk Flutter, clean architecture, or why animations matter more than people think — I’m in 👇
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-hassan-582286251/" target="_blank">LinkedIn</a> •
+  <a href="mailto:mhmd.hasn2411@gmail.com">Gmail</a> •
+  <a href="https://github.com/mhmedhasn" target="_blank">GitHub</a>
 </p>
